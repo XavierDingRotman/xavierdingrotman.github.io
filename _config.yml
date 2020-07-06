@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: Xavier's Blog
 subtitle:
 description:
-author: John Doe
+author: Xavier Ding
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: en, zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
